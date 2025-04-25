@@ -1,5 +1,6 @@
 ﻿<Solution>
   <Project Path="NoHeapAllocation\NoHeapAllocation.csproj" Type="Classic C#" />
+  <Project Path="PassStructsByRef\PassStructsByRef.csproj" Type="Classic C#" />
   <Project Path="SharedArrayPool\SharedArrayPool.csproj" Type="Classic C#" />
   <Project Path="SkipTakeVsRange\SkipTakeVsRange.csproj" Type="Classic C#" />
   <Project Path="TupleVsStruct\TupleVsStruct.csproj" Type="Classic C#" />
